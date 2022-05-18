@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "W758SP28CX.com.nymbus.enterprise.mobile",
-        "paths": [
-          "/page1.html", "/page2.html"
-        ]
+        "paths": ["page1.html", "page2.html"]
       }
     ]
   }
