@@ -5,7 +5,7 @@
       {
         "appID": "W758SP28CX.com.nymbus.enterprise.mobile",
         "paths": [
-          "*"
+          "/page*"
         ]
       }
     ]
