@@ -1,10 +1,13 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "W758SP28CX.com.nymbus.enterprise.mobile",
-            "paths": ["*"]
-            },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W758SP28CX.com.nymbus.enterprise.mobile",
+        "paths": [
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
