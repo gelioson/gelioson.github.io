@@ -5,7 +5,7 @@
       {
         "appID": "W758SP28CX.com.nymbus.enterprise.mobile",
         "paths": [
-          "https://gelioson.github.io/page1.html"
+          "/page1.html", "/page2.html"
         ]
       }
     ]
