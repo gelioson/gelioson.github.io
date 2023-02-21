@@ -1,11 +1,15 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "W758SP28CX.com.nymbus.enterprise.mobile",
-        "paths": [
-          "/page*"
+        "appIDs": [
+          "W758SP28CX.com.nymbus.enterprise.mobile"
+        ],
+        "components": [
+          {
+            "/": "/plaid/*",
+            "comment": "Matches any URL path whose path starts with /plaid/"
+          }
         ]
       }
     ]
